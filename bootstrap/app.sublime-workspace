@@ -1,0 +1,576 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"magrin",
+				"margin-top\tproperty"
+			],
+			[
+				"f",
+				"form-row"
+			],
+			[
+				"col",
+				"col-md-10"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"map",
+				"mapCanvas"
+			],
+			[
+				"page",
+				"pageFormat"
+			],
+			[
+				"creae",
+				"Create"
+			],
+			[
+				"pag",
+				"pageResolution"
+			],
+			[
+				"p",
+				"pageResolution"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"file",
+				"file-loader"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"set",
+				"setOffAllBackgroundMap"
+			],
+			[
+				"back",
+				"backgroundLayerBingAerial"
+			],
+			[
+				"bac",
+				"backgroundLayerOSM"
+			],
+			[
+				"padding",
+				"padding\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"draw",
+				"drawPolygon"
+			],
+			[
+				"Ve",
+				"VectorSource"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"O",
+				"OverViewMap"
+			],
+			[
+				"o",
+				"overviewMapControl"
+			],
+			[
+				"Mou",
+				"mousePositionControl"
+			],
+			[
+				"g",
+				"geoServerURL"
+			],
+			[
+				"n",
+				"nepalBoundaryLayer"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"alig",
+				"text-align\tproperty"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"w",
+				"w-100"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"top",
+				"margin-top\tproperty"
+			],
+			[
+				"bott",
+				"padding-bottom\tproperty"
+			],
+			[
+				"stu",
+				"Student"
+			],
+			[
+				"h",
+				"hide"
+			],
+			[
+				"b",
+				"border-color\tproperty"
+			],
+			[
+				"bo",
+				"border-bottom\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"a",
+				"align-items\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"over",
+				"overflow-x\tproperty"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"nav-",
+				"nav-fill"
+			],
+			[
+				"text",
+				"text-light"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"C",
+				"center"
+			],
+			[
+				"height",
+				"line-height\tproperty"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"t",
+				"top\tobject-position"
+			],
+			[
+				"positi",
+				"object-position\tproperty"
+			],
+			[
+				"n-",
+				"nav-fill"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"navbar",
+				"navbar-right"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"mo",
+				"ie-emulation-modes-warning"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/hello/README.md",
+		"/C/xampp/htdocs/Exam/Student/Exam.php",
+		"/C/xampp/htdocs/Exam/Faculty/question.php",
+		"/C/xampp/htdocs/Exam/Faculty/header.php",
+		"/C/xampp/htdocs/Faculty/user/give_feedback.php",
+		"/C/xampp/htdocs/Faculty/user/update_password.php",
+		"/C/xampp/htdocs/Faculty/user/update_profile.php",
+		"/C/xampp/htdocs/Faculty/admin/edit_faculty.php",
+		"/C/xampp/htdocs/Faculty/contact.php",
+		"/C/xampp/htdocs/Exam/Student/header.php",
+		"/C/xampp/htdocs/onlinefeedback/contact.php",
+		"/C/xampp/htdocs/webtech/format/footer.php",
+		"/C/xampp/htdocs/Faculty/registration.php",
+		"/C/xampp/htdocs/webtech/format/view_users.php",
+		"/C/xampp/htdocs/Faculty/admin/manage_faculty.php",
+		"/C/xampp/htdocs/Faculty/footer.php",
+		"/C/xampp/htdocs/Faculty/header.php",
+		"/C/xampp/htdocs/Faculty/admin/header.php",
+		"/C/xampp/htdocs/onlinefeedback/dbconfig.php",
+		"/C/xampp/htdocs/onlinefeedback/about.php",
+		"/C/xampp/htdocs/onlinefeedback/faculty_login.php",
+		"/C/xampp/htdocs/onlinefeedback/registration.php",
+		"/C/xampp/htdocs/onlinefeedback/css/mybootstrap.css",
+		"/C/xampp/htdocs/onlinefeedback/css/modern-business.css",
+		"/C/xampp/htdocs/onlinefeedback/login.php",
+		"/F/webgis-master/webgis-master/src/styles/print-map.css",
+		"/F/webpack/webpack-boilerplate-webpack-boilerplate/src/main.css",
+		"/F/webpack/webpack-boilerplate-webpack-boilerplate/config/webpack.dev.js",
+		"/F/webpack/webpack-boilerplate-webpack-boilerplate/src/main.js",
+		"/F/webpack/webpack-boilerplate-webpack-boilerplate/src/index.html",
+		"/F/webpack/webpack-boilerplate-webpack-boilerplate/src/map.js",
+		"/F/logo/logo/transparent logo/adobe/peacock Background copy Image.psd",
+		"/C/xampp/htdocs/Faculty/index.php",
+		"/C/xampp/htdocs/onlinefeedback/admin/dashboard.php",
+		"/C/xampp/htdocs/onlinefeedback/admin/display_student.php",
+		"/C/xampp/htdocs/onlinefeedback/admin/index.php",
+		"/C/xampp/htdocs/onlinefeedback/admin/feedback.php",
+		"/C/xampp/htdocs/onlinefeedback/index.php",
+		"/C/xampp/htdocs/Faculty/css/style.css",
+		"/C/xampp/htdocs/Faculty/css/modern-business.css",
+		"/C/xampp/htdocs/Faculty/css/mybootstrap.css",
+		"/C/xampp/htdocs/onlinefeedback/old/index.php",
+		"/C/xampp/htdocs/onlinefeedback/trainingSet/data.neg",
+		"/C/xampp/htdocs/Faculty/done/hi/header.php",
+		"/C/xampp/htdocs/Faculty/faculty_login.php",
+		"/C/xampp/htdocs/webtech/format/header.php",
+		"/C/xampp/htdocs/Faculty/login.php",
+		"/C/xampp/htdocs/studentfeedbackMe/footer.php",
+		"/C/xampp/htdocs/studentfeedbackMe/header.php",
+		"/C/xampp/htdocs/Faculty/checklogin.php",
+		"/C/xampp/htdocs/Faculty/dbconfig.php",
+		"/C/xampp/htdocs/Faculty/faculty/feedback.php",
+		"/C/xampp/htdocs/webtech/format/category.php",
+		"/C/xampp/htdocs/Faculty/faculty/header.php",
+		"/C/xampp/htdocs/Faculty/faculty/update_profile.php",
+		"/C/xampp/htdocs/Faculty/user/header.php",
+		"/C/Users/dell/Downloads/edit_category.php",
+		"/C/Users/dell/Downloads/Photoshop Temp223773162892.psb",
+		"/C/xampp/htdocs/Faculty/admin/add_faculty.php",
+		"/C/xampp/htdocs/Faculty/faculty/update_password.php",
+		"/C/xampp/htdocs/student feedback/Online_feedback/user/give_feedback.php",
+		"/C/xampp/htdocs/Faculty/faculty/dashboard.php",
+		"/C/xampp/htdocs/Faculty/css/dashboard.css",
+		"/C/xampp/htdocs/Faculty/about.php",
+		"/C/xampp/htdocs/Faculty/faculty/footer.php",
+		"/C/xampp/htdocs/Faculty/user/footer.php",
+		"/C/xampp/htdocs/Faculty/admin/footer.php",
+		"/C/xampp/htdocs/student feedback/Online_feedback/about.php",
+		"/C/xampp/htdocs/Faculty/user/dashboard.php",
+		"/C/xampp/htdocs/Faculty/admin/manage_student.php",
+		"/C/xampp/htdocs/Faculty/admin/update_password.php",
+		"/C/xampp/htdocs/Faculty/admin/contact.php",
+		"/C/xampp/htdocs/Faculty/admin/dashboard.php",
+		"/C/xampp/htdocs/Faculty/admin/feedback.php",
+		"/C/xampp/htdocs/Faculty/admin/feedback_average.php",
+		"/C/xampp/htdocs/Faculty/admin/manage_faculty",
+		"/C/xampp/htdocs/Faculty/headermodaledit.php",
+		"/C/xampp/htdocs/webtech/format/DisplayNews.php",
+		"/C/xampp/htdocs/Faculty/done/headermodaledit.php",
+		"/C/xampp/htdocs/Faculty/facultylogin.php",
+		"/C/xampp/htdocs/Faculty/studentlogin.php",
+		"/C/xampp/htdocs/webtech/format/DisplayRestrationDetail.php",
+		"/C/xampp/htdocs/student feedback/Online_feedback/admin/dashboard.php",
+		"/C/xampp/htdocs/student feedback/Online_feedback/admin/dashboard_home.php",
+		"/C/xampp/htdocs/Faculty/faculty/previousheader.php",
+		"/C/xampp/htdocs/webtech/chapter 3/header - Copy.php",
+		"/C/xampp/htdocs/webtech/format/edit_register.php",
+		"/C/xampp/htdocs/student feedback/Online_feedback/admin/display_student.php",
+		"/C/xampp/htdocs/student feedback/Online_feedback/admin/edit_faculty.php",
+		"/C/xampp/htdocs/student feedback/Online_feedback/admin/update_status.php",
+		"/C/xampp/htdocs/student feedback/Online_feedback/admin/feedback_average.php",
+		"/C/xampp/htdocs/student feedback/Online_feedback/admin/index.php",
+		"/C/xampp/htdocs/student feedback/Online_feedback/index.php",
+		"/C/xampp/htdocs/webtech/chapter 3/addCategory.php",
+		"/C/xampp/htdocs/Faculty/done/headerfaculty.php",
+		"/C/xampp/htdocs/Faculty/faculty/header1.php",
+		"/C/xampp/htdocs/studentfeedbackMe/about.php",
+		"/C/xampp/htdocs/studentfeedbackMe/faculty/header.php",
+		"/C/xampp/htdocs/Faculty/faculty/index.php",
+		"/C/xampp/htdocs/Faculty/header1.php",
+		"/C/xampp/htdocs/studentfeedbackMe/checklogin.php",
+		"/C/xampp/htdocs/studentfeedbackMe/contact.php",
+		"/C/xampp/htdocs/studentfeedbackMe/dbconfig.php",
+		"/C/xampp/htdocs/studentfeedbackMe/registration.php",
+		"/C/xampp/htdocs/studentfeedbackMe/faculty_login.php",
+		"/C/xampp/htdocs/studentfeedbackMe/index.php",
+		"/C/xampp/htdocs/studentfeedbackMe/login.php",
+		"/C/xampp/htdocs/webtech/chapter 3/header.php",
+		"/C/xampp/htdocs/student feedback/Online_feedback/faculty/update_profile.php",
+		"/C/xampp/htdocs/student feedback/Online_feedback/faculty/update_password.php",
+		"/C/xampp/htdocs/student feedback/Online_feedback/faculty/index.php",
+		"/C/xampp/htdocs/student feedback/Online_feedback/faculty/feedback.php",
+		"/C/xampp/htdocs/Faculty/facultymem/footer.php",
+		"/C/xampp/htdocs/webtech/chapter 3/footer.php",
+		"/C/xampp/htdocs/webtech/chapter 3/addAdvertisement - Copy.php",
+		"/C/xampp/htdocs/webtech/chapter 3/addNews.php",
+		"/C/xampp/htdocs/webtech/chapter 3/register.php",
+		"/C/xampp/htdocs/student feedback/Online_feedback/faculty/logout.php",
+		"/C/xampp/htdocs/student feedback/Online_feedback/contact.php",
+		"/C/xampp/htdocs/Faculty/headermodal.php",
+		"/C/xampp/htdocs/webtech/chapter 3/addAdvertisement.php",
+		"/C/xampp/htdocs/webtech/chapter 3/index.php",
+		"/C/xampp/htdocs/webtech/format/register.php",
+		"/C/xampp/htdocs/student feedback/Online_feedback/registration.php",
+		"/C/xampp/htdocs/ecom site/include/header.php",
+		"/C/xampp/htdocs/Faculty/include/header.php",
+		"/C/xampp/htdocs/Faculty/include/footer.php",
+		"/C/xampp/htdocs/Faculty/new.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
