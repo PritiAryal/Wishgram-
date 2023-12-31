@@ -16,6 +16,7 @@ Laravel
 
 The Wishgram project aims to develop a web-based application that allow users to communicate with eachother. It consists of user registration, login and authentication. Users can post pictures,post videos, and add captions. They can follow eachothers and view eachothers post. It provides well structure dashboard and feed to navigate. It is a clone of Instagram appliction and it replicates basic functionalities.
 
-![laravel-hd (3)](https://github.com/PritiAryal/Wishgram-/assets/40359121/d4e98de8-1cc0-400b-9c99-932b3040d7b1)
+![laravel-hd (4)](https://github.com/PritiAryal/Wishgram-/assets/40359121/8a24f0a0-4b89-461c-a392-d7ce41bbf5b5)
+
 
 
