@@ -9,10 +9,5 @@
         "src": "/(.*)",
         "dest": "/api/index.php"
       }
-    ],
-    "build": {
-      "env": {
-        "PHP_EXTENSIONS": "openssl"
-      }
-    }
+    ]
   }
