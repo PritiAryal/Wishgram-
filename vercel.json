@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/*.php": {
-      "runtime": "vercel-php@0.5.2"
+      "runtime": "vercel-php@0.6.0"
     }
   },
   "routes": [
@@ -14,5 +14,6 @@
     "env": {
       "PHP_EXTENSIONS": "openssl"
     }
-  }
+  },
+  "buildCommand": "chmod +x api/vercel-build.sh && ./api/vercel-build.sh"
 }
