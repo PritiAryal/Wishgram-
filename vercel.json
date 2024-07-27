@@ -1,7 +1,7 @@
 {
     "functions": {
       "api/*.php": {
-        "runtime": "vercel-php@7.4.33"
+        "runtime": "vercel-php@0.4.0"
       }
     },
     "routes": [
@@ -9,10 +9,5 @@
         "src": "/(.*)",
         "dest": "/api/index.php"
       }
-    ],
-    "build": {
-      "env": {
-        "PHP_EXTENSIONS": "openssl"
-      }
-    }
+    ]
   }
