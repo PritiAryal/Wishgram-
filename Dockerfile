@@ -34,9 +34,6 @@ COPY --chown=www-data:www-data . /var/www/html
 # Set the working directory
 WORKDIR /var/www/html
 
-# Copy the database file
-RUN cp /var/www/html/database/database.sqlite /var/www/html/database/database.sqlite
-
 # Copy nginx configuration file
 COPY ./nginx/default.conf /etc/nginx/conf.d/default.conf
 
